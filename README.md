@@ -26,8 +26,7 @@ const sakhawat = {
   location:   "Dhaka, Bangladesh 🇧🇩",
   focus:      "Secure APIs · Database Design · Backend Architecture",
   mindset:    "Clean Code Advocate · Continuous Learner",
-  currently:  "Building full-stack products with Next.js, Prisma & PostgreSQL",
-  contact:    "Available for freelance & collaboration",
+  currently:  "Building full-stack products with Next.js, Prisma & PostgreSQL"
 };
 ```
 
