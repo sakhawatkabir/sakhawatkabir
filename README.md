@@ -2,7 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md%20Sakhawat%20Kabir&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Node.js%20%C2%B7%20Next.js%20%C2%B7%20PostgreSQL&descAlignY=60&descColor=a0aec0" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+Express+%7C+TypeScript;PostgreSQL+%7C+MongoDB+%7C+Prisma;Full-Stack+experience+with+Next.js)](https://git.io/typing-svg)
+![Backend Developer](https://img.shields.io/badge/Role-Backend%20Developer-6C63FF?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6B35?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </div>
 
