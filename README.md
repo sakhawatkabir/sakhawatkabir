@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md%20Sakhawat%20Kabir&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Building%20the%20engines%20behind%20the%20interfaces&descAlignY=60&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md%20Sakhawat%20Kabir&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Node.js%20%C2%B7%20Next.js%20%C2%B7%20PostgreSQL&descAlignY=60&descColor=a0aec0" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Node.js+%7C+Express+%7C+TypeScript;PostgreSQL+%7C+MongoDB+%7C+Prisma;Next.js+%7C+REST+APIs+%7C+JWT+Auth;Full-Stack+%E2%86%92+Backend-First+Mindset)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Node.js+%7C+Express+%7C+TypeScript;PostgreSQL+%7C+MongoDB+%7C+Prisma;Full-Stack+experience+with+Next.js)](https://git.io/typing-svg)
 
 </div>
 
