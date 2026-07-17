@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md%20Sakhawat%20Kabir&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Node.js%20%C2%B7%20Next.js%20%C2%B7%20PostgreSQL&descAlignY=60&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md%20Sakhawat%20Kabir&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Node.js%20%C2%B7%20Express.js%20%C2%B7%20MongoDB%20%C2%B7%20PostgreSQL&descAlignY=60&descColor=a0aec0" width="100%"/>
 
 ![Backend Developer](https://img.shields.io/badge/Role-Backend%20Developer-6C63FF?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -25,7 +25,7 @@ const sakhawat = {
   role:       "Backend Developer",
   location:   "Dhaka, Bangladesh 🇧🇩",
   focus:      "Secure APIs · Database Design · Backend Architecture",
-  mindset:    "Clean Code Advocate · Problem Solver · Continuous Learner",
+  mindset:    "Clean Code Advocate · Continuous Learner",
   currently:  "Building full-stack products with Next.js, Prisma & PostgreSQL",
   contact:    "Available for freelance & collaboration",
 };
@@ -85,50 +85,7 @@ const sakhawat = {
 
 ---
 
-## 🚀 Featured Projects
-
-### ☀️ SOLARO — Solar Energy Platform for Bangladesh
-> Full-stack e-commerce & business management platform for solar panels and home kits
-
-- 🛒 Product catalog with specs, savings estimates, and image galleries
-- ⚡ Interactive solar savings calculator with system recommendations
-- 🗺️ District coverage map across all 64 districts of Bangladesh
-- 💳 Checkout with bKash, Nagad, Rocket, CoD, and bank transfer
-- 🔐 Email verification, 2FA, password reset, and session auth
-- 📊 Admin panel with Recharts dashboards, CRM lead pipeline, and role management
-
-**Stack:** `Next.js 14` `Prisma` `PostgreSQL (Neon)` `Tailwind CSS` `shadcn/ui` `Framer Motion` `Zustand` `TanStack Query` `Recharts` `Tiptap` `UploadThing` `Nodemailer`
-
----
-
-### 🧠 Briefly — AI Meeting Notes Summarizer
-> Turns raw meeting transcripts into structured, actionable summaries using AI
-
-- 📝 Generates executive summaries, action items, decisions, and follow-up email drafts
-- 🔐 Email OTP auth + Google OAuth sign-in
-- 🔗 Public sharing links per meeting
-- 🔄 Reprocess meetings with updated AI preferences
-- ⚙️ User preferences: tone, summary length, timestamp options
-
-**Stack:** `Next.js 16` `TypeScript` `React 19` `Prisma 7` `PostgreSQL (Neon)` `OpenRouter API` `JWT` `shadcn/ui` `Tailwind CSS v4` `SWR` `Bun`
-
----
-
-### 🔐 RBAC Server — Role-Based Access Control API
-> Secure REST API with a full 3-tier RBAC system
-
-- 🛡️ Route-level JWT middleware enforcing User / Manager / Admin access
-- 📦 Full CRUD on Posts, Categories, and role upgrade Requests
-- 🖼️ Cloudinary media management with automatic old-image cleanup
-- 🔒 bcryptjs password hashing + stateless JWT authentication
-
-**Stack:** `Node.js` `Express` `TypeScript` `MongoDB` `Mongoose` `JWT` `bcryptjs` `Cloudinary` `Multer`
-
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sakhawatkabir/rbac_server)
-
----
-
-## 📊 GitHub Stats
+## � GitHub Statsj
 
 <div align="center">
 
@@ -143,18 +100,6 @@ const sakhawat = {
 
 </div>
 
----
-
-## 🤝 Connect
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakhawatkabir)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sakhawatkabir)
-[![Resume](https://img.shields.io/badge/Resume-4A154B?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/11MEaIs4V3rQmrkwVzTfI0Pxt3G9DK5_k/view?usp=sharing)
-
-</div>
 
 ---
 
