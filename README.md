@@ -83,26 +83,6 @@ const sakhawat = {
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![UploadThing](https://img.shields.io/badge/UploadThing-EF4444?style=flat-square)
 
----
-
-## � GitHub Statsj
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakhawatkabir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakhawatkabir&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sakhawatkabir&theme=tokyonight&hide_border=true)
-
-</div>
-
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
