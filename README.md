@@ -86,9 +86,9 @@ const sakhawat = {
 
 ---
 
-## ⚙️ How I Build Full-Stack with Next.js
+## I use **Next.js as a full-stack framework** — not just for UI. The backend lives inside the same project via **API Routes**, connected directly to the database through **Prisma ORM**.
 
-> I use **Next.js as a full-stack framework** — not just for UI. The backend lives inside the same project via **API Routes**, connected directly to the database through **Prisma ORM**.
+> ⚙️ How I Build Full-Stack with Next.js
 
 ```
 ┌─────────────────────────────────────────────────────────┐
