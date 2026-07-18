@@ -7,6 +7,7 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js Full-Stack](https://img.shields.io/badge/Next.js-Full--Stack%20%28API%20Routes%20%2B%20DB%29-6C63FF?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -26,7 +27,8 @@ const sakhawat = {
   location:   "Dhaka, Bangladesh 🇧🇩",
   focus:      "Secure APIs · Database Design · Backend Architecture",
   mindset:    "Clean Code Advocate · Continuous Learner",
-  currently:  "Building full-stack products with Next.js, Prisma & PostgreSQL"
+  currently:  "Building full-stack products with Next.js, Prisma & PostgreSQL",
+  contact:    "Available for freelance & collaboration",
 };
 ```
 
@@ -81,6 +83,43 @@ const sakhawat = {
 ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![UploadThing](https://img.shields.io/badge/UploadThing-EF4444?style=flat-square)
+
+---
+
+## ⚙️ How I Build Full-Stack with Next.js
+
+> I use **Next.js as a full-stack framework** — not just for UI. The backend lives inside the same project via **API Routes**, connected directly to the database through **Prisma ORM**.
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                  Next.js Full-Stack App                 │
+│                                                         │
+│   Frontend (React / Tailwind / shadcn)                  │
+│        │                                                │
+│        ▼                                                │
+│   API Routes  →  /app/api/...  (Server-side logic)      │
+│        │                                                │
+│        ▼                                                │
+│   Prisma ORM  →  Schema · Migrations · Type-safe Queries│
+│        │                                                │
+│        ▼                                                │
+│   PostgreSQL / MongoDB  (Database Layer)                │
+└─────────────────────────────────────────────────────────┘
+```
+
+**What that looks like in practice:**
+
+| Layer | What I build |
+|---|---|
+| `app/api/` | RESTful API routes with auth middleware, validation (Zod), error handling |
+| ORM | Prisma schema design, relations, migrations |
+| Database | PostgreSQL (relational) · MongoDB (document) |
+| Auth | JWT · bcrypt · session/cookie strategies |
+| Frontend | React UI consuming my own API routes |
+
+So when I say "Next.js full-stack" — I mean the **backend is the real work**. Next.js just ships it all together.
+
+
 
 <div align="center">
 
