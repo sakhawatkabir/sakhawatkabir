@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md%20Sakhawat%20Kabir&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Node.js%20%C2%B7%20Express.js%20%C2%B7%20MongoDB%20%C2%B7%20PostgreSQL&descAlignY=60&descColor=a0aec0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md%20Sakhawat%20Kabir&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Node.js%20%C2%B7%20Express.js%20%C2%B7%20React%20%C2%B7%20PostgreSQL&descAlignY=60&descColor=a0aec0" width="100%"/>
 
-![Backend Developer](https://img.shields.io/badge/Role-Backend%20Developer-6C63FF?style=for-the-badge)
+![Full-Stack Developer](https://img.shields.io/badge/Role-Full--Stack%20Developer-6C63FF?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Next.js Full-Stack](https://img.shields.io/badge/Next.js-Full--Stack%20%28API%20Routes%20%2B%20DB%29-6C63FF?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -23,11 +23,12 @@
 ```ts
 const sakhawat = {
   name:       "Md Sakhawat Kabir",
-  role:       "Backend Developer",
+  role:       "Full-Stack Developer",
   location:   "Dhaka, Bangladesh 🇧🇩",
-  focus:      "Secure APIs · Database Design · Backend Architecture",
+  focus:      "Secure APIs · Database Design · Full-Stack Architecture",
   mindset:    "Clean Code Advocate · Continuous Learner",
-  currently:  "Building full-stack products with Next.js, Express.js, Prisma & PostgreSQL",
+  currently:  "Building full-stack products with React, Node.js, Prisma & PostgreSQL",
+  contact:    "Available for freelance & collaboration",
 };
 ```
 
@@ -85,18 +86,18 @@ const sakhawat = {
 
 ---
 
-## I use **Next.js as a full-stack framework** — not just for UI. The backend lives inside the same project via **API Routes**, connected directly to the database through **Prisma ORM**.
+## ⚙️ How I Build Full-Stack
 
-> ⚙️ How I Build Full-Stack with Next.js
+> I build end-to-end — **REST APIs with Node.js & Express** on the backend, connected to the database via **Prisma ORM**, and consumed by a **React / Next.js** frontend.
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                  Next.js Full-Stack App                 │
+│                   Full-Stack Architecture               │
 │                                                         │
-│   Frontend (React / Tailwind / shadcn)                  │
+│   Frontend (React / Next.js / Tailwind / shadcn)        │
 │        │                                                │
 │        ▼                                                │
-│   API Routes  →  /app/api/...  (Server-side logic)      │
+│   REST API  →  Node.js + Express  (Server-side logic)   │
 │        │                                                │
 │        ▼                                                │
 │   Prisma ORM  →  Schema · Migrations · Type-safe Queries│
@@ -110,14 +111,11 @@ const sakhawat = {
 
 | Layer | What I build |
 |---|---|
-| `app/api/` | RESTful API routes with auth middleware, validation (Zod), error handling |
+| REST API | Express routes with auth middleware, validation (Zod), error handling |
 | ORM | Prisma schema design, relations, migrations |
 | Database | PostgreSQL (relational) · MongoDB (document) |
 | Auth | JWT · bcrypt · session/cookie strategies |
-| Frontend | React UI consuming my own API routes |
-
-So when I say "Next.js full-stack" — I mean the **backend is the real work**. Next.js just ships it all together.
-
+| Frontend | React / Next.js UI consuming the API |
 
 
 <div align="center">
